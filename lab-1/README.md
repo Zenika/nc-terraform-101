@@ -21,7 +21,7 @@ variable "github_token" {
 
 variable "github_owner" {
   type = string
-  description = "Yout personnal Github account"
+  description = "Your personnal Github account"
 }
 ```
 
@@ -57,7 +57,7 @@ resource "github_repository" "example-1" {
 
 ```
 
-La documentation du provider est disponible à cette adresse: <https://www.terraform.io/docs/providers/github/r/repository.html>
+La documentation de la ressource est disponible à cette adresse: <https://www.terraform.io/docs/providers/github/r/repository.html>
 
 Puis lancer `terraform apply` pour lancer la création du repository Github.
 
