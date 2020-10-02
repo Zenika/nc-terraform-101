@@ -2,7 +2,7 @@
 
 ## Variables
 
-Jusqu'a présent, nous avons hardcodé nos valeurs. Afin de rendre plus générique notre projet, nous allons variabiliser notre fichier `main.tf`
+Jusqu'à présent, nous avons hardcodé nos valeurs. Afin de rendre plus générique notre projet, nous allons variabiliser notre fichier `main.tf`
 
 Dans le fichier `variable.tf`, déclarer les variables suivantes:
 
@@ -59,7 +59,7 @@ resource "github_repository" "example-1" {
 
 Faite un `terraform plan`
 
-La validation de la variable `repo_license_template` ne devrais pas fonctionner car la license fournie n'est pas reconnue.
+La validation de la variable `repo_license_template` ne devrait pas fonctionner car la license fournie n'est pas reconnue.
 
 ```hcl
 $ terraform plan
