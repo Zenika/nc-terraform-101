@@ -58,7 +58,7 @@ N'oubliez pas de faire un `terraform init` avant votre `terraform plan` (inutile
  
 ## For each loop
 
-Nouveauté de cette 0.13, nous pouvons désormais faire une boucle sur la creation de module.
+Nouveauté de cette 0.13, nous pouvons désormais faire une boucle sur la création de module.
 
 Pour pouvoir utiliser ce for_each, nous devons d'abord nettoyer notre module de son provider. (voir <https://github.com/hashicorp/terraform/issues/25120>)
 
@@ -77,7 +77,7 @@ variable "repositories" {
 }
 ```
 
-N'oubliez pas le `provider.tf` à la racine d workspace:
+N'oubliez pas le `provider.tf` à la racine du workspace:
 
 ```hcl
 provider "github" {
