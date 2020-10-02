@@ -1,5 +1,10 @@
 # LAB 1
 
+## VScode 
+
+N'oubliez pas d'installer les plugins `indent-rainbow` et `HashiCorp Terraform`.
+
+
 ## Provider
 
 Créer un fichier `provider.tf` afin de configurer le provider **github** avec vos crédentials:
