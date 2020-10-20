@@ -4,7 +4,7 @@
 
 Zenika est fier de te proposer une session online et gratuite de 2h autour de Terraform, animée par ses formateurs dans toute la France !
 
-Tel une marmotte des hauts plateaux alpins, tu as peut être hiberné durant ces 2 dernières années. A peine les yeux rouverts tu souhaites te mettre à l’Infra as Code mais tu ne sais pas par où commencer ?  Cette session est faite pour toi ! 
+Tel une marmotte des hauts plateaux alpins, tu as peut être hiberné durant ces 2 dernières années. A peine les yeux ouverts tu souhaites te mettre à l’Infra as Code mais tu ne sais pas par où commencer ? Cette session est faite pour toi ! 
 
 Au planning, initiation de l’infra as code avec Terraform (ressources, states , modules) avec un petit tour des dernières nouveautés de la 0.13. 
 
